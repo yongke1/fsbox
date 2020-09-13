@@ -1,0 +1,56 @@
+/**
+ *  Brocade的特殊写码规则表
+ * @author maybe
+ * @time 2019年1月28日10:52:59
+ */
+export default {
+  CA9: [
+    'QSFP-4SFP10G-DAC',
+    'QSFP-4SFP10G-AOC',
+    'Q-4SPC05',
+    'Q-4SPC04',
+    'Q-4SPC03',
+    'Q-4SPC02',
+    'Q-4SPC01',
+    'Q-4SPC005',
+    'Q-4SAO30',
+    'Q-4SAO25',
+    'Q-4SAO20',
+    'Q-4SAO15',
+    'Q-4SAO10',
+    'Q-4SAO07',
+    'Q-4SAO05',
+    'Q-4SAO03',
+    'Q-4SAO02',
+    'Q-4SAO01',
+    'SFP-10G-DAC',
+    'SFP-10G-AOC',
+    'SFPP-PC07',
+    'SFPP-PC06',
+    'SFPP-PC05',
+    'SFPP-PC04',
+    'SFPP-PC03',
+    'SFPP-PC025',
+    'SFPP-PC02',
+    'SFPP-PC015',
+    'SFPP-PC01',
+    'SFPP-PC005',
+    'SFPP-AO30',
+    'SFPP-AO25',
+    'SFPP-AO20',
+    'SFPP-AO15',
+    'SFPP-AO10',
+    'SFPP-AO07',
+    'SFPP-AO05',
+    'SFPP-AO03',
+    'SFPP-AO02',
+    'SFPP-AO01',
+    'SFPP-AC10',
+    'SFPP-AC07',
+    'SFPP-AC05',
+    'SFPP-AC03',
+    'SFPP-AC02',
+    'SFPP-AC01'
+  ],
+  CZA8: ['SFP-GB-GE-T', 'SFP-FB-GE-T']
+};

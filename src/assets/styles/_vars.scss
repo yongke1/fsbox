@@ -1,0 +1,48 @@
+// 全局配色
+$colors:(
+  'primary':#0681D3,
+  'primary-1':#57a3f3,
+  'primary-2':#2d8cf0,
+  'primary-3':#0781d4,
+  'primary-4':#4087ef,
+  'info':#259BE9,
+  'white':#fff,
+  'white-1':#EDF0F3,
+  'white-2':#eee,
+  'white-3':#ccc,
+  'white-4':#dddee2,
+  'white-5': #f2f2f2,
+  'grey': #9ca0ab,
+  'grey-1': #a4a7af,
+  'grey-2': #bbb,
+  'grey-3': #666,
+  'grey-4': #aaa,
+  'grey-5':#cfcfcf,
+  'black':#000,
+  'black-1':#495060,
+  'orange':#fe4a49,
+  'orange-1':#f6b946,
+  'green':#58cca7
+);
+
+// justify-content属性值
+$flex-jc:(
+  start:flex-start,
+  end:flex-end,
+  center:center,
+  between:space-between,
+  around:space-around
+);
+
+//align-items属性值
+$flex-ai:(
+  start:flex-start,
+  end:flex-end,
+  center:center,
+  stretch:stretch
+);
+
+// 文本对齐方式属性值
+$align:(left,center,right);
+
+
